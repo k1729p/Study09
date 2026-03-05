@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"l":"kp"},{"l":"kp.company"},{"l":"kp.company.assembler"},{"l":"kp.company.controller"},{"l":"kp.company.domain"}];updateSearchResults();

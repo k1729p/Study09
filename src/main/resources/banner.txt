@@ -1,0 +1,3 @@
+${AnsiColor.BRIGHT_YELLOW}████████████████████████████████████████████████████████████████████████████████
+${AnsiColor.BRIGHT_YELLOW}█████████████████████████████████████████████████████████████████████▌${AnsiColor.DEFAULT}STUDY 09${AnsiColor.BRIGHT_YELLOW}▐█
+${AnsiColor.BRIGHT_YELLOW}████████████████████████████████████████████████████████████████████████████████${AnsiColor.DEFAULT}
